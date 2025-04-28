@@ -1,7 +1,7 @@
 <a id="top"></a>
 
 <pre align="center">
- <h1>STUDENT HUB </h1>
+ <h1>IPL SCHEDULING VIA OOPS  </h1>
 
 </pre>
 

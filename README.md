@@ -11,12 +11,12 @@
 </pre>
 
 <p align="center">
-  <img src="https://img.shields.io/github/forks/iiitl/student-hub?style=social" />
-  <img src="https://img.shields.io/github/stars/iiitl/student-hub?style=social" />
-  <img src="https://img.shields.io/github/contributors/iiitl/student-hub" />
-  <img src="https://img.shields.io/github/issues/iiitl/student-hub" />
-  <img src="https://img.shields.io/github/issues-pr/iiitl/student-hub" />
-  <img src="https://img.shields.io/github/license/iiitl/student-hub" />
+  <img src="https://img.shields.io/github/forks/Vedantvijayhumbe/IPL_Scheduling_OOPS?style=social" />
+  <img src="https://img.shields.io/github/stars/Vedantvijayhumbe/IPL_Scheduling_OOPSb?style=social" />
+  <img src="https://img.shields.io/github/contributors/Vedantvijayhumbe/IPL_Scheduling_OOPS" />
+  <img src="https://img.shields.io/github/issues/Vedantvijayhumbe/IPL_Scheduling_OOPS" />
+  <img src="https://img.shields.io/github/issues-pr/Vedantvijayhumbe/IPL_Scheduling_OOPS" />
+  <img src="https://img.shields.io/github/license/Vedantvijayhumbe/IPL_Scheduling_OOPS" />
 </p>
 
 _A Next.js-based student community platform for discussions, resources, and collaboration._
@@ -182,7 +182,7 @@ student-hub/
 ## **⭐ Support & Community**
 
 - **Have an idea or suggestion?** Open an issue!
-- **Found a bug?** Report it in [GitHub Issues](https://github.com/iiitl/student-hub/issues).
+- **Found a bug?** Report it in [GitHub Issues](https://github.com/Vedantvijayhumbe/IPL_Scheduling_OOPS/issues).
 - **Like the project?** ⭐ Star the repository to support us!
 
 ---
@@ -192,8 +192,8 @@ student-hub/
 We appreciate all contributions to Student Hub!
 
 <p align="center">
-  <a href="https://github.com/iiitl/student-hub/graphs/contributors">
-    <img src="https://contrib.rocks/image?repo=iiitl/student-hub" />
+  <a href="https://github.com/Vedantvijayhumbe/IPL_Scheduling_OOPS/graphs/contributors">
+    <img src="https://contrib.rocks/image?repo=Vedantvijayhumbe/IPL_Scheduling_OOPS" />
   </a>
 </p>
 Want to see your name here? Start contributing today! 🚀  

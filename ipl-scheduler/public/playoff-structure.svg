@@ -1,0 +1,43 @@
+<svg width="400" height="200" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    text { font-family: Arial, sans-serif; fill: white; }
+    .box { fill: rgba(255,255,255,0.1); stroke: rgba(255,255,255,0.3); stroke-width: 1; rx: 4; }
+    .line { stroke: rgba(255,255,255,0.5); stroke-width: 1; }
+    .arrow { fill: rgba(255,255,255,0.5); }
+  </style>
+  
+  <!-- Qualifier 1 -->
+  <rect class="box" x="10" y="30" width="100" height="30" />
+  <text x="25" y="50" font-size="12">Qualifier 1</text>
+  
+  <!-- Eliminator -->
+  <rect class="box" x="10" y="130" width="100" height="30" />
+  <text x="30" y="150" font-size="12">Eliminator</text>
+  
+  <!-- Qualifier 2 -->
+  <rect class="box" x="170" y="80" width="100" height="30" />
+  <text x="185" y="100" font-size="12">Qualifier 2</text>
+  
+  <!-- Final -->
+  <rect class="box" x="330" y="80" width="60" height="30" />
+  <text x="345" y="100" font-size="12">Final</text>
+  
+  <!-- Connecting lines -->
+  <line class="line" x1="110" y1="45" x2="170" y2="45" />
+  <line class="line" x1="170" y1="45" x2="170" y2="80" />
+  <line class="line" x1="110" y1="145" x2="140" y2="145" />
+  <line class="line" x1="140" y1="145" x2="140" y2="95" />
+  <line class="line" x1="140" y1="95" x2="170" y2="95" />
+  <line class="line" x1="270" y1="95" x2="330" y2="95" />
+  
+  <!-- Arrows -->
+  <polygon class="arrow" points="165,80 175,80 170,75" />
+  <polygon class="arrow" points="165,95 175,95 170,100" />
+  <polygon class="arrow" points="325,95 335,95 330,90" />
+  
+  <!-- Labels -->
+  <text x="120" y="35" font-size="10">Winner</text>
+  <text x="120" y="135" font-size="10">Winner</text>
+  <text x="120" y="60" font-size="10">Loser</text>
+  <text x="280" y="85" font-size="10">Winner</text>
+</svg>

@@ -1,7 +1,7 @@
 <a id="top"></a>
 
 <pre align="center">
-
+ <h1>STUDENT HUB </h1>
 
 </pre>
 
@@ -18,7 +18,7 @@ _A Next.js-based student community platform for discussions, resources, and coll
 
 ### **🚀 Overview**
 
-Student Hub is a **modern platform** designed to help students **collaborate, share resources, and engage in discussions** seamlessly. Built with **Next.js, Tailwind CSS, and MongoDB**, it ensures a smooth and fast user experience while offering powerful community features such as study materials, question papers, a student marketplace, and a real-time community chat – all in one place! 🚀
+IPL SCHEDULING MECHANISM WEBSITE  is a **modern platform** designed to help Organisers **collaborate, share resources, and engage in making IPL schedules** seamlessly. Built with **Next.js, Tailwind CSS, and JAVA Backend**, it ensures a smooth and fast user experience while offering powerful community features such as study materials, question papers, a student marketplace, and a real-time community chat – all in one place! 🚀
 
 🌟 If you find this project helpful, don't forget to star ⭐ the repository and support the community!
 
@@ -50,12 +50,9 @@ Student Hub is a **modern platform** designed to help students **collaborate, sh
 
 ## ✨ Features
 
-### 📚 Notes & Study Materials
+### 📚 Scheduling via User Input 
 
-- A centralized repository of well-organized notes and study resources for various subjects.
-- Categorized by topics, subjects, and semesters to make searching easy.
-- Users can contribute and share their own notes and resources.
-- Markdown-supported formatting for structured reading.
+- 
 
 ### 📖 Quick Reads
 
@@ -64,33 +61,12 @@ Student Hub is a **modern platform** designed to help students **collaborate, sh
 - Regularly updated with fresh content.
 - Mobile-friendly reading experience.
 
-### 📄 Question Papers Repository
+### 📄 Useful for non traditional IPL matches 
 
 - A library of previous years’ question papers for different courses and subjects.
 - Helps students prepare for exams by providing real past paper formats.
 - Users can upload and share question papers with the community.
 - Search and filter options to find relevant papers easily.
-
-### 🛒 Student Marketplace
-
-- A student-to-student platform for buying, selling, and exchanging academic resources.
-- Users can list books, notes, and study materials for sale or donation.
-- Secure communication between buyers and sellers.
-- Categories for textbooks, lab manuals, stationery, and digital resources.
-
-### 💬 Community Chat
-
-- Real-time discussion forums for students to interact, ask doubts, and collaborate.
-- Separate channels for different subjects and discussion topics.
-- Anonymous question-asking feature for students hesitant to post publicly.
-- Moderated by community admins to maintain quality discussions.
-
-### 👨‍👩‍👧 Newcomers Section
-
-- A dedicated space for new students to navigate their college journey.
-- Includes a "New Student Guide" with essential information about courses, exams, and resources.
-- FAQs addressing common concerns of first-year students.
-- Links to useful university resources and academic calendars.
 
 ## **🛠 Tech Stack**
 

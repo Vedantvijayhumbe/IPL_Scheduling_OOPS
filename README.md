@@ -14,12 +14,9 @@
   <img src="https://img.shields.io/github/license/Vedantvijayhumbe/IPL_Scheduling_OOPS" />
 </p>
 
-_A Next.js-based student community platform for discussions, resources, and collaboration._
-
 ### **🚀 Overview**
 
-IPL SCHEDULING MECHANISM WEBSITE  is a **modern platform** designed to help Organisers **collaborate, share resources, and engage in making IPL schedules** seamlessly. Built with **Next.js, Tailwind CSS, and JAVA Backend**, it ensures a smooth and fast user experience while offering powerful community features such as study materials, question papers, a student marketplace, and a real-time community chat – all in one place! 🚀
-
+IPL SCHEDULING MECHANISM WEBSITE  is a **modern platform** designed to help Organisers **collaborate, share resources, and engage in making IPL schedules** seamlessly. Built with **Next.js, Tailwind CSS, and JAVA Backend**.
 🌟 If you find this project helpful, don't forget to star ⭐ the repository and support the community!
 
 ---
@@ -50,14 +47,6 @@ IPL SCHEDULING MECHANISM WEBSITE  is a **modern platform** designed to help Orga
 
 ### 📚 Scheduling via User Input 
 
-- 
-
-### 📖 Quick Reads
-
-- A collection of short, insightful articles and guides for students.
-- Covers topics like study tips, productivity hacks, career guidance, and academic strategies.
-- Regularly updated with fresh content.
-- Mobile-friendly reading experience.
 
 ### 📄 Useful for non traditional IPL matches 
 
@@ -158,7 +147,7 @@ student-hub/
 
 ## 👥 Contributors
 
-We appreciate all contributions to Student Hub!
+We appreciate all contributions to IPL Scheduling Software!
 
 <p align="center">
   <a href="https://github.com/Vedantvijayhumbe/IPL_Scheduling_OOPS/graphs/contributors">
